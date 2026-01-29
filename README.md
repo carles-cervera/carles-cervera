@@ -25,7 +25,7 @@ production-oriented architectures, both in academic and professional contexts.
 
 **Artificial Intelligence**
 - Computer Vision
-- Convolutional Neural Networks (CNNs)
+- Convolutional Neural Networks
 - Deep Learning
 - Generative AI
 
