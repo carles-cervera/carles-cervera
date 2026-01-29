@@ -48,7 +48,7 @@ production-oriented architectures, both in academic and professional contexts.
 Computer vision system for automated defect detection in industrial bottle production lines,
 based on CNNs and deployed in a cloud architecture.
 
-Private repository – detailed description available upon request.
+Public repository available
 
 ---
 
