@@ -48,7 +48,7 @@ production-oriented architectures, both in academic and professional contexts.
 Computer vision system for automated defect detection in industrial bottle production lines,
 based on CNNs and deployed in a cloud architecture.
 
-🔒 Private repository – detailed description available upon request.
+Private repository – detailed description available upon request.
 
 ---
 
@@ -56,7 +56,7 @@ based on CNNs and deployed in a cloud architecture.
 Mobile application developed in **Kotlin**, with a **Python backend**, REST APIs and
 persistent storage deployed using **Docker Compose**.
 
-➡️ Public repository available
+Public repository available
 
 ---
 
@@ -64,7 +64,7 @@ persistent storage deployed using **Docker Compose**.
 Full Stack application including frontend, backend and database persistence, featuring
 an optimization algorithm for product shelf distribution based on product relationships.
 
-➡️ Public repository available
+Public repository available
 
 ---
 
@@ -75,6 +75,6 @@ an optimization algorithm for product shelf distribution based on product relati
 
 ---
 
-## 📫 Contact
+## Contact
 - 📧 Email: cerveracm@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/carles-cervera-3581442a6/
