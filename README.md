@@ -1,80 +1,126 @@
-# 👋 Hi, I'm Carles Cervera
+# Carles Cervera
 
-**Software Engineer (Computer Engineering) graduated from UPC**  
-Full Stack Junior Developer | Software Engineering | AI Applied to Real Systems
-
-I specialize in the design and development of complete software systems, combining
-backend, frontend, software architecture and deployment in real-world environments.
-
-I have hands-on experience integrating Artificial Intelligence solutions, especially
-Computer Vision, Convolutional Neural Networks (CNN) and Generative AI, into
-production-oriented architectures, both in academic and professional contexts.
+**Software Engineer | Computer Engineering Graduate, UPC**  
+Full Stack Developer | AI & Computer Vision | Backend Specialist
 
 ---
 
-## Tech Stack
+## About Me
 
-**Languages**
-- Python, Java, JavaScript, Kotlin, C/C++
+Software Engineer with expertise in designing and developing end-to-end software systems, combining backend development, frontend interfaces, software architecture, and deployment in production environments.
 
-**Backend**
-- FastAPI, REST APIs, asynchronous backend development
+Proven experience integrating Artificial Intelligence solutions into real-world applications, with a focus on Computer Vision, Convolutional Neural Networks (CNN), and Generative AI. Skilled at bridging the gap between academic research and production-ready systems through both professional and academic projects.
 
-**Frontend**
-- React, Android (Kotlin)
+---
 
-**Artificial Intelligence**
-- Computer Vision
-- Convolutional Neural Networks
-- Deep Learning
-- Generative AI
+## Technical Expertise
 
-**Databases**
-- PostgreSQL, MySQL, Oracle
+**Programming Languages**  
+Python | Java | JavaScript | Kotlin | C/C++
 
-**DevOps & Cloud**
-- Docker, Docker Compose
-- Microsoft Azure (Azure ML, Blob Storage)
+**Backend Development**  
+FastAPI | REST API Design | Asynchronous Programming | Microservices Architecture
 
-**Tools & Methodologies**
-- Git, Azure DevOps, Trello
-- Agile methodologies (Kanban, Scrum)
+**Frontend Development**  
+React | Android (Kotlin) | Responsive Design
+
+**Artificial Intelligence & Machine Learning**  
+Computer Vision | Convolutional Neural Networks (CNN) | Deep Learning | Generative AI | RAG Systems | Vector Databases | Sentence Transformers
+
+**Data & Databases**  
+PostgreSQL | MySQL | Oracle | Redis | Qdrant (Vector DB)
+
+**DevOps & Cloud Infrastructure**  
+Docker | Docker Compose | Microsoft Azure (Azure ML, Blob Storage) | CI/CD Pipelines
+
+**Development Tools & Methodologies**  
+Git | Azure DevOps | Agile (Scrum, Kanban) | Test-Driven Development
 
 ---
 
 ## Featured Projects
 
-### Automated Inspection System using AI (Bachelor's Thesis – IFR Group)
-Computer vision system for automated defect detection in industrial bottle production lines,
-based on CNNs and deployed in a cloud architecture.
+### AI Document Q&A System
+**Tech Stack:** Python, FastAPI, Qdrant, Redis, Docker, Sentence Transformers
 
-Public repository available
+Retrieval-Augmented Generation (RAG) system for semantic search on PDF documents. Features asynchronous document processing, vector embeddings (384 dimensions), and configurable search parameters optimized through experimentation.
 
----
+- Microservices architecture with 4 containerized services
+- Vector database for semantic similarity search
+- Background processing with Redis task queue
+- REST API with comprehensive documentation (Swagger)
+- Health checks for all system components
 
-### Mobile Application for Cultural Activities & Climate Refugees
-Mobile application developed in **Kotlin**, with a **Python backend**, REST APIs and
-persistent storage deployed using **Docker Compose**.
-
-Public repository available
-
----
-
-### Supermarket Management System
-Full Stack application including frontend, backend and database persistence, featuring
-an optimization algorithm for product shelf distribution based on product relationships.
-
-Public repository available
+[View Repository](https://github.com/carles-cervera/ai-doc-qa)
 
 ---
 
-## Currently
-- Improving my skills in **software architecture** and **backend development**
-- Working on **real-world software projects**
-- Open to **Junior Software Engineer / Full Stack Developer** opportunities
+### Automated Visual Inspection System for Manufacturing
+**Tech Stack:** Python, Computer Vision, CNNs, Microsoft Azure, Docker
+
+**Bachelor's Thesis - IFR Group**
+
+Complete computer vision system for automated defect detection in industrial bottle production lines. Deployed in a cloud-based architecture using Azure services.
+
+- Real-time defect detection using Convolutional Neural Networks
+- Cloud deployment on Microsoft Azure (Azure ML, Blob Storage)
+- Integration with industrial production environments
+- Performance optimization for real-time processing
+
+Repository available upon request
+
+---
+
+### FreskitoBCN - Climate Refuge & Cultural Activities App
+**Tech Stack:** Kotlin, Python, FastAPI, PostgreSQL, Docker Compose
+
+Mobile application for locating climate refuges and cultural activities in Barcelona during heat waves.
+
+**Backend:** REST API managing geolocation data, climate refuges, and cultural events  
+**Frontend:** Native Android app with interactive maps and real-time notifications  
+**Infrastructure:** Dockerized services with PostgreSQL and PostGIS for geospatial queries
+
+- Geolocation-based search with proximity filtering
+- Real-time activity updates
+- Push notifications for heat alerts
+- Multilingual support
+
+[Backend Repository](https://github.com/carles-cervera/freskitobcn-backend) | [Frontend Repository](https://github.com/carles-cervera/freskitobcn-frontend)
+
+---
+
+### Supermarket Shelf Optimization System
+**Tech Stack:** Full Stack (Frontend, Backend, Database)
+
+Management system for supermarket products featuring an optimization algorithm that computes optimal shelf distribution based on product relationship analysis.
+
+- Full CRUD operations for product management
+- Optimization algorithm for shelf placement
+- Database persistence layer
+- Responsive web interface
+
+Repository available upon request
+
+---
+
+## Professional Focus
+
+Currently advancing my expertise in:
+- Software architecture patterns and best practices
+- Backend development with asynchronous frameworks
+- AI/ML integration in production systems
+- Cloud-native application design
+
+**Seeking opportunities as:** Junior Software Engineer | Full Stack Developer | Backend Developer
 
 ---
 
 ## Contact
-- 📧 Email: cerveracm@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/carles-cervera-3581442a6/
+
+**Email:** cerveracm@gmail.com  
+**LinkedIn:** [linkedin.com/in/carles-cervera-3581442a6](https://www.linkedin.com/in/carles-cervera-3581442a6/)  
+**GitHub:** [github.com/carles-cervera](https://github.com/carles-cervera)
+
+---
+
+**Open to opportunities in Barcelona and remote positions**
