@@ -67,7 +67,7 @@ Complete computer vision system for automated defect detection in industrial bot
 - Integration with industrial production environments
 - Performance optimization for real-time processing
 
-[View Repository](https://github.com/carles-cervera/ai-doc-qa)
+[View Repository](https://github.com/carles-cervera/bottle-vision-system)
 
 ---
 
@@ -89,6 +89,22 @@ Mobile application for locating climate refuges and cultural activities in Barce
 
 ---
 
+### Rails Forum - Community Discussion Platform
+**Tech Stack:** Ruby on Rails, PostgreSQL, JavaScript, HTML5, CSS3
+
+Modern community forum platform built with Ruby on Rails, enabling organized discussions and knowledge sharing through threaded conversations.
+
+- User authentication and profile management
+- Discussion thread creation and management
+- Nested comments and replies system
+- Category-based content organization
+- Full-text search functionality
+- Responsive design for mobile and desktop
+
+[View Repository](https://github.com/carles-cervera/rails-forum)
+
+---
+
 ### Supermarket Shelf Optimization System
 **Tech Stack:** Full Stack (Frontend, Backend, Database)
 
@@ -99,7 +115,7 @@ Management system for supermarket products featuring an optimization algorithm t
 - Database persistence layer
 - Responsive web interface
 
-[View Repository](https://github.com/carles-cervera/ai-doc-qa)
+[View Repository](https://github.com/carles-cervera/supermarket-management-system)
 
 ---
 
