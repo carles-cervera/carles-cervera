@@ -67,7 +67,7 @@ Complete computer vision system for automated defect detection in industrial bot
 - Integration with industrial production environments
 - Performance optimization for real-time processing
 
-Repository available upon request
+[View Repository](https://github.com/carles-cervera/ai-doc-qa)
 
 ---
 
@@ -99,7 +99,7 @@ Management system for supermarket products featuring an optimization algorithm t
 - Database persistence layer
 - Responsive web interface
 
-Repository available upon request
+[View Repository](https://github.com/carles-cervera/ai-doc-qa)
 
 ---
 
