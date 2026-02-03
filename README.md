@@ -7,9 +7,11 @@ Full Stack Developer | AI & Computer Vision | Backend Specialist
 
 ## About Me
 
-Software Engineer with expertise in designing and developing end-to-end software systems, combining backend development, frontend interfaces, software architecture, and deployment in production environments.
+Software Engineer with expertise in building production-grade, full-stack systems from concept to deployment. Experienced developing SaaS platforms with integrated payment solutions, implementing subscription billing, secure checkout flows, and webhook-based automation using modern backend frameworks and cloud infrastructure.
 
-Proven experience integrating Artificial Intelligence solutions into real-world applications, with a focus on Computer Vision, Convolutional Neural Networks (CNN), and Generative AI. Skilled at bridging the gap between academic research and production-ready systems through both professional and academic projects.
+Proven ability to deliver AI-powered applications to production, with focus on Computer Vision (CNN-based systems), Generative AI, and semantic search using RAG architectures. Successfully bridged academic research and industrial requirements through projects ranging from automated visual inspection systems to cloud-deployed ML services.
+
+Specializes in designing scalable architectures, asynchronous processing pipelines, and containerized microservices that deliver measurable business value.
 
 ---
 
@@ -23,6 +25,9 @@ FastAPI | REST API Design | Asynchronous Programming | Microservices Architectur
 
 **Frontend Development**  
 React | Android (Kotlin) | Responsive Design
+
+**Payment Systems & SaaS**  
+Stripe (Checkout, Subscriptions, Webhooks, Customer Portal) | Subscription Billing | Payment Automation | SCA Compliance
 
 **Artificial Intelligence & Machine Learning**  
 Computer Vision | Convolutional Neural Networks (CNN) | Deep Learning | Generative AI | RAG Systems | Vector Databases | Sentence Transformers
@@ -39,7 +44,34 @@ Git | Azure DevOps | Agile (Scrum, Kanban) | Test-Driven Development
 ---
 
 ## Featured Projects
+### LearnHub - SaaS Learning Management Platform
+**Tech Stack:** FastAPI, React, TypeScript, PostgreSQL, Redis, Stripe, Docker
 
+Complete SaaS Learning Management System with integrated subscription billing and payment processing.
+
+**Backend:** FastAPI-based REST API with authentication, subscription management, and async task processing  
+**Frontend:** React SPA with TypeScript, responsive design, and real-time updates  
+**Payment Integration:** Full Stripe implementation for subscription billing
+
+**Stripe Integration Features:**
+- Multi-tier subscription plans (Pro €19/mo, Premium €29/mo)
+- Secure Checkout Sessions with SCA compliance
+- Real-time webhook event handling (subscriptions, payments, cancellations)
+- Customer Portal integration for self-service subscription management
+- Invoice automation and payment retry logic
+- Production-ready webhook security with signature verification
+
+**Technical Highlights:**
+- Asynchronous webhook processing with Redis task queue
+- PostgreSQL with proper indexing for subscription queries
+- JWT-based authentication with refresh tokens
+- Dockerized microservices architecture
+- Environment-based configuration management
+- Comprehensive API documentation with Swagger/OpenAPI
+
+[View Repository](https://github.com/carles-cervera/learnhub-saas)
+
+---
 ### AI Document Q&A System
 **Tech Stack:** Python, FastAPI, Qdrant, Redis, Docker, Sentence Transformers
 
